@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git.rdenadai.dev/rdenadai/ehwaz/src/commit/9aa171f478e1c07b5af9cf2a66b753270d028a35/static/logo_back.png" alt="Ehwaz Logo" width="128" />
+  <img src="https://git.rdenadai.dev/rdenadai/ehwaz/raw/branch/main/static/logo_back.png" alt="Ehwaz Logo" width="128" />
 </p>
 
 # Ehwaz

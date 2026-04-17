@@ -1,3 +1,5 @@
+> <strong>NOTICE:</strong> This project is hosted on: https://git.rdenadai.dev/rdenadai/ehwaz
+
 <p align="center">
   <img src="https://git.rdenadai.dev/rdenadai/ehwaz/raw/branch/main/static/logo_back.png" alt="Ehwaz Logo" width="128" />
 </p>
@@ -9,4 +11,3 @@ It focuses on speed, split-pane editing, strong keyboard workflows, and local-fi
 
 Current version: `0.0.4`
 
-Hosted on: https://git.rdenadai.dev/rdenadai/ehwaz
